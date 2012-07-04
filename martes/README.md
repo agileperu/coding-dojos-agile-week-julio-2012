@@ -1,10 +1,12 @@
-Kata tomada de: https://github.com/12meses12katas/Abril-Bowling/blob/master/README.rdoc
+#Coding Dojo: Sesión martes 03/07/12
 
 Diapositivas usadas en este dojo: http://www.slideshare.net/JuanjoFuchs/coding-dojos-agile-week-martes-0307-net-bsico
 
 #Bowling Kata
 
-Kata desarrollada en .NET utilizando C# y programación orientada a objetos.
+Kata tomada de: https://github.com/12meses12katas/Abril-Bowling/blob/master/README.rdoc
+
+Desarrollada en .NET utilizando C# y programación orientada a objetos.
 
 ##Descripción
 
