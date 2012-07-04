@@ -2,9 +2,11 @@ Kata tomada de: https://github.com/12meses12katas/Abril-Bowling/blob/master/READ
 
 Diapositivas usadas en este dojo: http://www.slideshare.net/JuanjoFuchs/coding-dojos-agile-week-martes-0307-net-bsico
 
-=Bowling Kata
+#Bowling Kata
 
-==Descripción
+Kata desarrollada en .NET utilizando C# y programación orientada a objetos.
+
+##Descripción
 
 * Cada juego incluye 10 turnos para el jugador.
 * En cada turno, el jugador tiene hasta 2 intentos para tirar todos los pinos.
@@ -26,11 +28,11 @@ Diapositivas usadas en este dojo: http://www.slideshare.net/JuanjoFuchs/coding-d
 	- Si en alguno de los intentos del bono hace un "Strike", el proceso no se repite.
 	- Los intentos del bono solo se utilizan para calcular el puntaje total del turno final.
 
-==Casos de prueba sugeridos
+##Casos de prueba sugeridos
 
-* +X+ es un strike
-* +/+ es un spare y
-* +-+ es nada
+* <tt>X</tt> es un strike
+* <tt>/</tt> es un spare y
+* <tt>-</tt> es nada
 
 * <b>12 intentos: 12 strikes.</b>
 <tt>XXXXXXXXXXXX = 
