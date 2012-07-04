@@ -18,6 +18,7 @@ Para desarrollar el dojo se propuso trabajar las siguientes operaciones de la li
 3. values: devuelve un arreglo de cadenas que contiene cada uno de los elementos de la lista.
 4. find: busca una cadena en la lista, en caso de encontrar un valor devuelve el nodo en caso contrario devuelve un nodo nulo. Para este dojo solo se considera la primera ocurrencia.
 5. delete: se deberá eliminar una cadena de la lista teniendo en cuenta casos como:
+
 * Eliminar un elemento del inicio.
 * Eliminar un elemento del final.
 * Eliminar un elemento de cualquier otra parte de la lista.
