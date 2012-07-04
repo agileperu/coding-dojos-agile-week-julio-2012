@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4DA00612-69AA-4248-82C2-189BB8DED510" ModuleId="BowlingKata" />
+  <Module PersistentId="3ED62004-376D-4EC9-96A0-C75AA90DA900" ModuleId="BowlingKata.Tests" />
+</Modules>

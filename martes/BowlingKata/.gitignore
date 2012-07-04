@@ -1,0 +1,21 @@
+# Codigo compilado #
+####################
+*.dll
+*.pdb
+*.bin
+
+# Archivos de configuracion personales #
+########################################
+*.suo
+*.user
+
+# Archivos del SO #
+###################
+.DS_Store
+Thumbs.db
+
+# Carpetas #
+###################
+_ReSharper.Seriva.Bolsa.Exterior/
+bin/
+Debug/
