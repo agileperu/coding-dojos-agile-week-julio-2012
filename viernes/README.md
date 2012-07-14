@@ -8,7 +8,7 @@ Kata tomada de: http://codingdojo.org/cgi-bin/wiki.pl?KataTennis
 
 ##Descripción
 
-Implementar un juego simple de tennis enfocándose en el manejo del puntaje.
+Implementar un juego simple de tennis enfocándonos en el manejo del puntaje.
 
 El manejo del puntaje en un juego de tennis es el siguiente:
 
